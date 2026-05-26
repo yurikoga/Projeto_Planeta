@@ -30,4 +30,4 @@ O grande destaque técnico deste projeto está na transição de layout via Medi
 
 ## 📸 Demonstração
 
-> 🔗 **Acesse o projeto online aqui:** [Inserir o link do seu GitHub Pages ou Vercel]
+> 🔗 **Acesse o projeto online aqui:** https://yurikoga.github.io/Projeto_Planeta/
